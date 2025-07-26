@@ -20,3 +20,4 @@ $nodes = @(	@{Drive="S:"; Folder="StorjNode01"; Name="Node01"; Space=500; Auth="
 // Auth="youremail@gmail.com:yourtoken"   // get your token: https://storj.dev/node/get-started/auth-token
 
 // after that is correctly filled out and the script runs without errors, you only need to set up your router ports!
+<img width="1010" height="488" alt="image" src="https://github.com/user-attachments/assets/ded6c749-1ba3-4f46-8e79-46ac3a2cab14" />
